@@ -1,0 +1,19 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:01.000
+This is a <c.orange>sample</c>
+
+00:00:01.000 --> 00:00:02.500
+of <c.orange>video</c> along
+
+00:00:02.500 --> 00:00:04.000
+with <c.orange>subtitles</c>,
+
+00:00:04.000 --> 00:00:05.500
+made for <c.orange>Archer</c>
+
+00:00:05.500 --> 00:00:06.000
+to demonstrate <c.orange>subtitle</c>
+
+00:00:06.000 --> 00:00:06.500
+<c.orange>emphasization</c>.
