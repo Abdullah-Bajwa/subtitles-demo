@@ -1,27 +1,22 @@
 WEBVTT
 
-00:00:00.000 --> 00:00:00.800
-<c.orange>This</c> is a sample
+00:00:00.000 --> 00:00:00.500
+<c.orange>This</c> is a sample of text emphasization
 
-00:00:00.800 --> 00:00:1.600
-This <c.orange>is</c> a sample
-00:00:01.600 --> 00:00:02.400
-This is <c.orange>a</c> sample
-00:00:02.400 --> 00:00:03.200
-This is a <c.orange>sample</c>
+00:00:00.500 --> 00:00:01.000
+This <c.orange>is</c> a sample of text emphasization
 
+00:00:01.000 --> 00:00:01.500
+This is <c.orange>a</c> sample of text emphasization
 
-00:00:03.200 --> 00:00:03.500
-of <c.orange>video</c> along
+00:00:01.500 --> 00:00:02.500
+This is a <c.orange>sample</c> of text emphasization
 
-00:00:03.500 --> 00:00:04.000
-with <c.orange>subtitles</c>,
+00:00:02.500 --> 00:00:03.000
+This is a sample <c.orange>of</c> text emphasization
 
-00:00:04.000 --> 00:00:05.500
-made for <c.orange>Archer</c>
+00:00:03.000 --> 00:00:04.000
+This is a sample of <c.orange>text</c> emphasization
 
-00:00:05.500 --> 00:00:06.000
-to demonstrate <c.orange>subtitle</c>
-
-00:00:06.000 --> 00:00:06.500
-<c.orange>emphasization</c>.
+00:00:04.000 --> 00:00:05.000
+This is a sample of text <c.orange>emphasization</c>
